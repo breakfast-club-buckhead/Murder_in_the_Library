@@ -10,5 +10,5 @@ print('HI THERE .. yes you .... you with the nostril hair..... hhmmmm... yes you
 print('Nice novel so far, right ?')
 
 print('Another line ')
-print('test1')
-print('test')
+print('test12')
+print('test2')
