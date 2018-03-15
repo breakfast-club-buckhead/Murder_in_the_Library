@@ -9,4 +9,7 @@ print('gives us characters which may set our mind at ease..... or maybe ........
 print('HI THERE .. yes you .... you with the nostril hair..... hhmmmm... yes you.... Deadpool here..')
 print('Nice novel so far, right ?')
 
+
 print("Let's come up with a name. We need a name.")
+print("What did they order to eat?")
+
