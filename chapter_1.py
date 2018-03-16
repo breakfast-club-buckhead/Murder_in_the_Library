@@ -6,8 +6,13 @@ print ("The skull stopped its song and said, 'Let me tell you a story,  which yo
 print('And I will tell you about characters, which may set our mind at ease..... or maybe ...........')
 
 
+
 print('HI THERE .. yes you .... you with the nostril hair..... hhmmmm... yes you.... Deadpool here..')
 print('Nice novel so far, right ?')
 name = input("What's your name anyway?")
 print ("Okay, ", name, "get ready for a real whopper of a tale...")
+
+
+print("Let's come up with a name. We need a name.")
+print("What did they order to eat?")
 
