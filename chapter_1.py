@@ -14,5 +14,10 @@ print ("Okay, ", name, "get ready for a real whopper of a tale...")
 
 
 print("Let's come up with a name. We need a name.")
-print("What did they order to eat?")
+print (name, "What did you order to eat?")
+
+#Nerando - put in what was ordered
+food =
+print (food)
+
 
