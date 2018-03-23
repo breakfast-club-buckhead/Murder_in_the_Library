@@ -20,4 +20,5 @@ print ('So %s is gonna have some %s' %(name,food ))
 print('So back to the story ..... %s .... it was %s wasnt it ? ' %(name, name))
 print('"Let me tell the story"....said the skull')
 
-print("The story is about a mad scientist, a wizard, and superhero, and they were all fighting against the evil and crafty, Toby Ho.")
+print("The story is about a mad scientist, a wizard, and a superhero, and they were all fighting the evil and crafty, Toby Ho.")
+print("Tell me, what do you know of the infamous, Toby Ho?")
